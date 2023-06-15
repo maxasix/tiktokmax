@@ -4,9 +4,9 @@ INSTALL_TARGET_PROCESSES = com.zhiliaoapp.musically
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = tiktok-max
+TWEAK_NAME = tiktokmax
 
-tiktok-max_FILES = Tweak.x
-tiktok-max_CFLAGS = -fobjc-arc
+tiktokmax_FILES = Tweak.x
+tiktokmax_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
