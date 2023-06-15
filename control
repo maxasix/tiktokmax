@@ -1,0 +1,9 @@
+Package: com.maxasix.tiktok-max
+Name: TikTok Max
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An iOS 15 tweak for TikTok
+Maintainer: maxasix
+Author: maxasix
+Section: Tweaks
+Depends: 
