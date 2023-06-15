@@ -1,4 +1,4 @@
-# tiktokmax
+# TikTok Max
 A rootless iOS 15 tweak for TikTok
 
 ## Building
